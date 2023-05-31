@@ -1,6 +1,22 @@
 # Insights-of-Airbnb-Ireland
 
-The Airbnb dataset is a publicly available dataset that contains information about Airbnb listings and their hosts in different cities worldwide. The dataset consists of various attributes such as listing ID, host ID, host name, neighbourhood, room type, price, availability, and many more. This dataset can be used for various analysis and insights on the hospitality industry and the sharing economy. 
+Welcome to the Airbnb Dashboard Analysis project! This repository showcases an interactive and insightful Tableau dashboard exploring the Airbnb dataset.
+
+## Tableau Public Dashboard
+
+To view the Tableau Public dashboard associated with this project, visit the following link:
+
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/ajith.vernekar/viz/InsightsofAirbnb-Ireland/Airbnb-Overview)
+
+Please note that Tableau Public provides a platform for sharing visualizations, and the link above will direct you to the hosted dashboard on the Tableau Public website.
+
+## Usage
+
+Follow these steps to use the Airbnb Dashboard Analysis project:
+
+1. Clone this repository to your local machine.
+2. Open the Tableau Public dashboard link mentioned above to explore the visualization.
+3. Alternatively, visit the GitHub Pages link provided to access the hosted website version of the dashboard.
 
 ## Aim of the project:
 The aim of this project is to analyze the Airbnb dataset to gain insights into the hospitality industry, pricing strategies, and the sharing economy. The project also aims to create visualizations to showcase these insights to a target audience, including Airbnb hosts, travelers, and policymakers.
