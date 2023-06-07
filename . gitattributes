@@ -1,0 +1,2 @@
+*.twbx linguist-language=Tableau
+*.html linguist-detectable=false
